@@ -1,1 +1,1 @@
-# A General Point of Sale (POS) system is a versatile software and hardware solution that facilitates transactions and manages sales for diverse businesses. It includes features like payment processing, inventory tracking, reporting, customer management, and can be adapted to suit various industries such as retail, hospitality, healthcare, and more. Its primary function is to streamline operations, enhance customer service, and provide comprehensive tools for businesses to manage transactions effectively.
+# Gernal Point of Sale for all kind of businesses.
