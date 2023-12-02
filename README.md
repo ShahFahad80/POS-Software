@@ -1,1 +1,1 @@
-# Gernal Point of Sale for all kind of businesses.
+# Genral Point of Sale for all kind of businesses.
